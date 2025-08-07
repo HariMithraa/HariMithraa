@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Heyyy!! 👋
+![Rabbit Happy](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Rabit%20Happy.gif)
 <!--
 **HariMithraa/HariMithraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
